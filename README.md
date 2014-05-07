@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # green
 =====
 1. green is good
